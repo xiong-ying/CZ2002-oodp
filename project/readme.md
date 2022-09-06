@@ -26,13 +26,13 @@ Restaurant operation time: Lunch: 11am - 4pm Dinner: 6pm - 11pm<br/>
 In this assignment, we assume at the staff list is fixed.<br/>
 Please use the IDs below during the Restaurant Reservation Point of Sale System.<br/>
 
- ID&emsp;Name			Gender		Position<br/>
+ ID&emsp;Name			&emsp;Gender		&emsp;Position<br/>
  --------------------------------------------<br/>
- 1&emsp;Andy			male		Manager<br/>
- 2&emsp;Bryant			male		Cashier<br/>
- 3&emsp;Cindy			female		Waitress<br/>
- 4&emsp;Dan				male		Waiter<br/>
- 5&emsp;Eddie			male		Chef<br/>
+ 1 &emsp;Andy			&emsp;male		&emsp;Manager<br/>
+ 2 &emsp;Bryant			&emsp;male		&emsp;Cashier<br/>
+ 3 &emsp;Cindy			&emsp;female		&emsp;Waitress<br/>
+ 4 &emsp;Dan				&emsp;male		&emsp;Waiter<br/>
+ 5 &emsp;Eddie			&emsp;male		&emsp;Chef<br/>
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++<br/>
 
 ### Table List

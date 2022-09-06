@@ -18,9 +18,7 @@ Restaurant operation time: Lunch: 11am - 4pm Dinner: 6pm - 11pm<br/>
  * Reservations can only be made ahead of time.<br/>
  * For lunch reservation (11am - 4pm), it can only be made the day before. (Cut-off time: the previous day) <br/>
  * For dinner reservation (6pm - 9pm), it can only be made before 4pm on the day itself. (Cut-off time: before 4pm of the actual date of reservation)<br/>
- *
  * Reservation will be automatically cancelled after 15 mins.<br/>
- *
  * Reservation will be closed after 50% of the tables are reserved based on lunch or dinner session.<br/>
  * So that there will still be tables for walk in guests.<br/>
 

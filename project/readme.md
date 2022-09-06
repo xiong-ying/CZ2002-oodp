@@ -28,7 +28,7 @@ Please use the IDs below during the Restaurant Reservation Point of Sale System.
 
  ID		Name			Gender		Position<br/>
  --------------------------------------------<br/>
- 1		Andy			male		Manager<br/>
+ 1		&emsp Andy			male		Manager<br/>
  2		Bryant			male		Cashier<br/>
  3		Cindy			female		Waitress<br/>
  4		Dan				male		Waiter<br/>

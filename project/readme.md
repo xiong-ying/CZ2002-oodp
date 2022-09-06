@@ -40,24 +40,24 @@ In this assignment, we assume at the table list is fixed.<br/>
 
  TableNo		Seats<br/>
  --------------------------------------------<br/>
- 21				2<br/>
- 22				2<br/>
- 23				2<br/>
- 24				2<br/>
- 25				2<br/>
- 41				4<br/>
- 42				4<br/>
- 43				4<br/>
- 44				4<br/>
- 45				4<br/>
- 46				4<br/>
- 47				4<br/>
- 61				6<br/>
- 62				6<br/>
- 63				6<br/>
- 64				6<br/>
- 65				6<br/>
- 66				6<br/>
+ 21				&emsp;2<br/>
+ 22				&emsp;2<br/>
+ 23				&emsp;2<br/>
+ 24				&emsp;2<br/>
+ 25				&emsp;2<br/>
+ 41				&emsp;4<br/>
+ 42				&emsp;4<br/>
+ 43				&emsp;4<br/>
+ 44				&emsp;4<br/>
+ 45				&emsp;4<br/>
+ 46				&emsp;4<br/>
+ 47				&emsp;4<br/>
+ 61				&emsp;6<br/>
+ 62				&emsp;6<br/>
+ 63				&emsp;6<br/>
+ 64				&emsp;6<br/>
+ 65				&emsp;6<br/>
+ 66				&emsp;6<br/>
  101			10<br/>
  102			10<br/>
  103			10<br/>

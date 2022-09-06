@@ -2,6 +2,6 @@
 2021.11 @ Nanyang Technological University
 
 ## Content
-5 lab
+5 labs
 <br/>
 1 project
